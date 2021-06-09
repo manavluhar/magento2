@@ -6,7 +6,7 @@
 namespace Magento\Framework\Mview;
 
 /**
- * Interface \Magento\Framework\Mview\ActionInterface
+ * Represents an action that should be implement in action controller in MView(Materialized View)
  * @api
  */
 interface ActionInterface
